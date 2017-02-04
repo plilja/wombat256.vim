@@ -49,6 +49,11 @@ hi DiffDelete	ctermfg=234		ctermbg=60		cterm=none		guifg=#242424	guibg=#3e3969	g
 hi DiffText						ctermbg=53		cterm=none						guibg=#73186e	gui=none
 hi DiffChange					ctermbg=237										guibg=#382a37
 
+" Tab colors
+hi TabLine      ctermfg=252		ctermbg=236     cterm=none		guifg=#d0d0d0	guibg=#303030	gui=none
+hi TabLineFill  ctermfg=none	ctermbg=236     cterm=none						guibg=#303030	gui=none
+hi TabLineSel   ctermfg=none	ctermbg=241		cterm=none						guibg=#626262	gui=none
+
 "hi CursorIM
 "hi Directory
 "hi IncSearch
@@ -64,9 +69,6 @@ hi DiffChange					ctermbg=237										guibg=#382a37
 "hi SpellCap
 "hi SpellLocal
 "hi SpellRare
-"hi TabLine
-"hi TabLineFill
-"hi TabLineSel
 "hi Tooltip
 "hi User1
 "hi User9
