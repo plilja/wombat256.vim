@@ -50,8 +50,8 @@ hi DiffText						ctermbg=53		cterm=none						guibg=#73186e	gui=none
 hi DiffChange					ctermbg=237										guibg=#382a37
 
 " Tab colors
-hi TabLine      ctermfg=252		ctermbg=236     cterm=none		guifg=#d0d0d0	guibg=#303030	gui=none
-hi TabLineFill  ctermfg=none	ctermbg=236     cterm=none						guibg=#303030	gui=none
+hi TabLine      ctermfg=252		ctermbg=237     cterm=none		guifg=#d0d0d0	guibg=#303030	gui=none
+hi TabLineFill  ctermfg=none	ctermbg=237     cterm=none						guibg=#303030	gui=none
 hi TabLineSel   ctermfg=none	ctermbg=241		cterm=none						guibg=#626262	gui=none
 
 "hi CursorIM
